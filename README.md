@@ -1,3 +1,4 @@
 # repo-demo
-1st git repo
-author = nitin
+This is my 1st git repo
+<br>
+Author = nitin
